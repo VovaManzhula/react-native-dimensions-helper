@@ -1,0 +1,25 @@
+{
+  "name": "react-native-dimensions-helper",
+  "version": "1.0.0",
+  "description": "A lightweight utility for calculating percentages of screen/window dimensions in React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VovaManzhula/react-native-dimensions-helper.git"
+  },
+  "keywords": [
+    "react-native",
+    "dimensions",
+    "helper",
+    "percentages"
+  ],
+  "author": "Volodymyr Manzhula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VovaManzhula/react-native-dimensions-helper/issues"
+  },
+  "homepage": "https://github.com/VovaManzhula/react-native-dimensions-helper#readme"
+}
