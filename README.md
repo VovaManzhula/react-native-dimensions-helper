@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # **React Native Dimensions Helper**
 
 ![npm](https://img.shields.io/npm/v/react-native-dimensions-helper)
